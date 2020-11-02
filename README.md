@@ -13,3 +13,12 @@
 
 这里列出符合SBI接口的开源固件
 - [Rust based SBI](https://github.com/luojia65/rustsbi)
+
+
+## RISC-V 模拟器
+- [qemu](https://www.qemu.org/)
+- [Spike RISC-V ISA Simulator](https://github.com/riscv/riscv-isa-sim)
+- [rvemu](https://github.com/d0iasm/rvemu)
+- [riscv-rust](https://github.com/takahirox/riscv-rust)
+- [TinyEMU](https://bellard.org/tinyemu/)
+- [rv8](https://github.com/rv8-io/rv8)
