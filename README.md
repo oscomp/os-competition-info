@@ -26,3 +26,6 @@
 - [rv8](https://github.com/rv8-io/rv8): fast
 - [terminus](https://github.com/shady831213/terminus)：multicore,virtio-net/disk/mouse/console...
 - [Rips](https://github.com/mortbopet/Ripes) ： with nice gui interface...
+
+### 其他RISC-V模拟器
+- [Web界面的RISC-V模拟电路](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php)
