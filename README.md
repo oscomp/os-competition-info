@@ -15,10 +15,12 @@
 - [Rust based SBI](https://github.com/luojia65/rustsbi)
 
 
-## RISC-V 模拟器
+## RISC-V 系统级模拟器（支持运行OS kernel）
 - [qemu](https://www.qemu.org/)
 - [Spike RISC-V ISA Simulator](https://github.com/riscv/riscv-isa-sim)
-- [rvemu](https://github.com/d0iasm/rvemu)
-- [riscv-rust](https://github.com/takahirox/riscv-rust)
-- [TinyEMU](https://bellard.org/tinyemu/)
-- [rv8](https://github.com/rv8-io/rv8)
+- [rvemu](https://github.com/d0iasm/rvemu): simple, on web
+- [riscv-rust](https://github.com/takahirox/riscv-rust): on web, with debug
+- [TinyEMU](https://bellard.org/tinyemu/): simple
+- [rv8](https://github.com/rv8-io/rv8): fast
+- [terminus](https://github.com/shady831213/terminus)：multicore,virtio-net/disk/mouse/console...
+- [Rips](https://github.com/mortbopet/Ripes) ： with nice gui interface...
