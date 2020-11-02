@@ -10,6 +10,6 @@
 - [Rust based blogos on x86](https://github.com/phil-opp/blog_os)
 - [Rust based osblog on x86](https://github.com/sgmarz/osblog)
 - [C/Rust based os kernel lab](https://github.com/chyyuu/os_kernel_lab)
-- 
+
 这里列出符合SBI接口的开源固件
 - [Rust based SBI](https://github.com/luojia65/rustsbi)
