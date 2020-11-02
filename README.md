@@ -4,5 +4,12 @@
 - [C lang based xv6 kernel](https://github.com/SKTT1Ryze/xv6-k210)
 - [Rust based rcore tutorial kernel](https://github.com/wyfcyx/rCore-Tutorial/tree/multicore)
 
+# 下面是一些教学用的开源OS：
+- [C lang based xv6 on x86](https://github.com/mit-pdos/xv6-public)
+- [C lang based xv6 on risc-v](https://github.com/mit-pdos/xv6-riscv)
+- [Rust based blogos on x86](https://github.com/phil-opp/blog_os)
+- [Rust based osblog on x86](https://github.com/sgmarz/osblog)
+- [C/Rust based os kernel lab](https://github.com/chyyuu/os_kernel_lab)
+- 
 这里列出符合SBI接口的开源固件
 - [Rust based SBI](https://github.com/luojia65/rustsbi)
