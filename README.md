@@ -17,7 +17,7 @@
 - [Rust based SBI](https://github.com/luojia65/rustsbi)
 
 
-## RISC-V 系统级模拟器（支持运行OS kernel）
+## RISC-V 系统功能级模拟器（支持运行OS kernel）
 - [qemu](https://www.qemu.org/)
 - [Spike RISC-V ISA Simulator](https://github.com/riscv/riscv-isa-sim)
 - [rvemu](https://github.com/d0iasm/rvemu): simple, on web
@@ -28,4 +28,4 @@
 - [Rips](https://github.com/mortbopet/Ripes) ： with nice gui interface...
 
 ### 其他RISC-V模拟器
-- [Web界面的RISC-V模拟电路](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php)
+- [Web界面时钟周期级的RISC-V CPU](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php)
