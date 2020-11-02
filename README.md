@@ -4,7 +4,7 @@
 - [C lang based xv6 kernel](https://github.com/SKTT1Ryze/xv6-k210)
 - [Rust based rcore tutorial kernel](https://github.com/wyfcyx/rCore-Tutorial/tree/multicore)
 
-# 下面是一些教学用的开源OS：
+## 下面是一些教学用的开源OS：
 - [C lang based xv6 on x86](https://github.com/mit-pdos/xv6-public)
 - [C lang based xv6 on risc-v](https://github.com/mit-pdos/xv6-riscv)
 - [Rust based blogos on x86](https://github.com/phil-opp/blog_os)
