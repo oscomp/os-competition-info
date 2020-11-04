@@ -4,7 +4,7 @@
 - [C lang based xv6 kernel](https://github.com/SKTT1Ryze/xv6-k210)
 - [Rust lang based xv6 kernel](https://github.com/Jaic1/xv6-riscv-rust)
 - [Rust based rcore tutorial kernel](https://github.com/wyfcyx/rCore-Tutorial/tree/multicore)
-
+- [RT-Thread/K210 with SMP](https://github.com/RT-Thread/rt-thread/tree/master/bsp/k210)
 
 ## 下面是一些教学用的开源OS：
 - [C lang based xv6 on x86](https://github.com/mit-pdos/xv6-public)
