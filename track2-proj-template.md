@@ -35,11 +35,11 @@
 
 ### 项目导师
 
-......
+王贇
 
-* github https://github.com/......
+* github https://github.com/wangyun2137
 
-* email ......@......
+* email yun.wang@linux.alibaba.com
 
 
 
@@ -63,7 +63,7 @@
 
 ### License
 
-........
+GPL 2.0
 
 
 
