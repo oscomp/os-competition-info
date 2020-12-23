@@ -4,8 +4,11 @@
 
 
 ## [比赛章程](https://shimo.im/docs/N2A1M8vV47cJP5AD/)
+
 ## [比赛技术方案](https://shimo.im/docs/Wr3DVevExDc8wDkJ)
 
+## 相关网站
+-[全国高等院校计算机系统能力培养官方网站](http://www.csc-he.com)
 
 ## 与比赛相关的一些OS实例/教程的参考信息
 
