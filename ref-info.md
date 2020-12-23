@@ -6,6 +6,7 @@
 - [Rust lang based xv6 kernel(uncompleted)](https://github.com/Jaic1/xv6-riscv-rust)
 - [Rust based rcore tutorial kernel](https://github.com/wyfcyx/rCore-Tutorial/tree/multicore)
 - [C lang based uCore kernel](https://github.com/NKU-EmbeddedSystem/riscv64-ucore)
+- [RT-Thread/K210 with SMP](https://github.com/RT-Thread/rt-thread/tree/master/bsp/k210)
 
 ### Tutorial of developing OS 
 - [Writing an OS in Rust (x86)](https://os.phil-opp.com/)
