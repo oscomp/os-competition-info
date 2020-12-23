@@ -9,6 +9,8 @@
 
 ## 相关网站
 - [全国高等院校计算机系统能力培养官方网站](http://www.csc-he.com)
+- ["龙芯杯"CPU比赛](http://www.nscscc.org)
+- ["华为毕昇杯"编译比赛](https://course.educg.net/acm/)
 
 ## 与比赛相关的一些OS实例/教程的参考信息
 
