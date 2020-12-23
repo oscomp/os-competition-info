@@ -2,11 +2,14 @@
 ## 事件
 - 2020.12.26 [关于2021全国大学生操作系统比赛的研讨会](https://www.bagevent.com/event/7056666)
 
-
 ## [比赛章程](https://shimo.im/docs/N2A1M8vV47cJP5AD/)
 
 ## [比赛技术方案](https://shimo.im/docs/Wr3DVevExDc8wDkJ)
 
+## 赛道
+ - [OS内核实现](https://github.com/oscomp/oscomp-track1)
+ - [OS功能设计](https://github.com/oscomp/oscomp-track2)
+ 
 ## 相关网站
 - [全国高等院校计算机系统能力培养官方网站](http://www.csc-he.com)
 - ["龙芯杯"CPU比赛](http://www.nscscc.org)
