@@ -1,6 +1,7 @@
 # "全国大学生操作系统比赛2021"相关信息
 ## 事件
 - 2020.12.26 [关于2021全国大学生操作系统比赛的研讨会](https://www.bagevent.com/event/7056666)
+- 2020.12.23 [操作系统比赛官网](https://os.educg.net/)建立
 
 ## [比赛章程](https://shimo.im/docs/N2A1M8vV47cJP5AD/)
 
@@ -12,6 +13,7 @@
  
 ## 相关网站
 - [全国高等院校计算机系统能力培养官方网站](http://www.csc-he.com)
+- [操作系统比赛](https://os.educg.net/)
 - ["龙芯杯"CPU比赛](http://www.nscscc.org)
 - ["华为毕昇杯"编译比赛](https://course.educg.net/acm/)
 
