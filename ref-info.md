@@ -29,6 +29,7 @@
 - [qemu](https://www.qemu.org/)
 - [Spike RISC-V ISA Simulator](https://github.com/riscv/riscv-isa-sim)
 - [rvemu](https://github.com/d0iasm/rvemu): simple, on web
+  - [Eng Book: Writing a RISC-V Emulator in Rust](https://book.rvemu.app/)
   - [Made a RISC-V Emulator Running Xv6 in Eng](https://d0iasm.github.io/blog/risc-v/2020/04/03/xv6-on-my-riscv-emulator.html)
 - [riscv-rust](https://github.com/takahirox/riscv-rust): on web, with debug
 - [TinyEMU](https://bellard.org/tinyemu/): simple
