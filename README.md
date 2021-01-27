@@ -10,7 +10,7 @@
 ## 赛道
  - [OS内核实现](https://github.com/oscomp/oscomp-track1)
  - [OS功能设计](https://github.com/oscomp/oscomp-track2)
- - - [题目列表和分类](https://shimo.im/sheets/oon62mm4gCAGfoWY/LlBB6/)（更新中）
+   - [题目列表和分类](https://shimo.im/sheets/oon62mm4gCAGfoWY/LlBB6/)（更新中）
  
 ## 相关网站
 - [OS比赛](https://os.educg.net/)：比赛报名入口
