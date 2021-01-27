@@ -14,10 +14,11 @@
 - [C lang based uCore kernel](https://github.com/NKU-EmbeddedSystem/riscv64-ucore)
 - [RT-Thread/K210 with SMP](https://github.com/RT-Thread/rt-thread/tree/master/bsp/k210)
 
-### Tutorial of developing OS 
+### Tutorial of developing OS in Rust
 - [Writing an OS in Rust (x86)](https://os.phil-opp.com/)
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/)
 - [rCore-Tutorial-Book 第三版 中文](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
+- [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
 ### 下面是一些教学用的开源OS：
 - [C lang based xv6 on x86](https://github.com/mit-pdos/xv6-public)
