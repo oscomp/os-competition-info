@@ -4,6 +4,7 @@
 - [Kendryte（基于K210芯片）硬件技术规格说明文档](https://github.com/kendryte/kendryte-doc-datasheet/blob/master/zh-Hans/SUMMARY.md)
 - [Sipeed MAIX Dock开发板硬件说明文档](https://cn.maixpy.sipeed.com/zh/develop_kit_board/maix_dock.html)
 - [RISC-V 硬件中文手册](http://crva.ict.ac.cn/documents/RISC-V-Reader-Chinese-v2p1.pdf)
+- [K210 入门相关资料](https://github.com/wyfcyx/osnotes/blob/master/book/K210相关资料.md)（吴一凡维护）
 
 这里列出了一些可以在基于[K210 CPU](https://github.com/kendryte/kendryte-doc-datasheet)的[Sipeed MAIX Dock开发板](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21410578015.7.5a6752b1xJE3v2&id=591616120470)或QEMU(rv64)上运行的开源OS：
 - [nommu linux 0.11](https://github.com/lizhirui/K210-Linux0.11)
