@@ -28,6 +28,9 @@
 - [C/Rust based os kernel lab](https://github.com/chyyuu/os_kernel_lab)
 - [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)
 
+### 开发OS相关的信息
+- [OSDEV 讨论如何开发OS的WIKI社区](https://wiki.osdev.org/Main_Page)
+
 这里列出符合SBI接口的开源固件
 - [Rust based SBI](https://github.com/luojia65/rustsbi)
 
