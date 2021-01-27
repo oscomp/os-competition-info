@@ -1,6 +1,6 @@
-## 与比赛相关的一些OS实例/教程的参考信息
+## 与比赛相关的一些硬件，OS实例/教程的参考信息
 
-###RISC-V 硬件文档
+### RISC-V 硬件文档
 - [Kendryte（基于K210芯片）硬件技术规格说明文档](https://github.com/kendryte/kendryte-doc-datasheet/blob/master/zh-Hans/SUMMARY.md)
 - [Sipeed MAIX Dock开发板硬件说明文档](https://cn.maixpy.sipeed.com/zh/develop_kit_board/maix_dock.html)
 
