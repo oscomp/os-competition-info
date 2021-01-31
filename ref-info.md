@@ -20,6 +20,8 @@
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/)
 - [rCore-Tutorial-Book 第三版 中文](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
 - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+- [Book of Drone RTOS in Rust](https://book.drone-os.com/)
+  - [Drone OS: An Embedded Operating System written in Rust](https://github.com/drone-os)
 
 ### 下面是一些教学用的开源OS：
 - [C lang based xv6 on x86](https://github.com/mit-pdos/xv6-public)
