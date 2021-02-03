@@ -19,6 +19,7 @@
 - [xv6 riscv book MIT](https://github.com/mit-pdos/xv6-riscv-book)
 - [基于代理内核PKE rv64 的实验指导书 华中](https://gitee.com/syivester/pke-doc)
 - [ucore rv64 实验指导书 南开](https://nankai.gitbook.io/ucore-os-on-risc-v64/)
+- [计算机系统基础实验指导(包含x86/arm/rv) 南大](https://nju-projectn.github.io/ics-pa-gitbook/ics2020/)
 - [ucore rv32 实验指导书 较老](https://ring00.github.io/bbl-ucore/#/)
 
 ### Tutorial of developing OS for RV/x86/ARM in Rust
