@@ -15,7 +15,13 @@
 - [C lang based uCore kernel](https://github.com/NKU-EmbeddedSystem/riscv64-ucore)
 - [RT-Thread/K210 with SMP](https://github.com/RT-Thread/rt-thread/tree/master/bsp/k210)
 
-### Tutorial of developing OS in Rust
+### Tutorial of developing OS for RV in C
+- [xv6 riscv book](https://github.com/mit-pdos/xv6-riscv-book)
+- [基于代理内核PKE的操作系统实验设计 华中](https://gitee.com/syivester/pke-doc)
+- [ucore rv64 实验指导书 南开](https://nankai.gitbook.io/ucore-os-on-risc-v64/)
+- [ucore rv32 实验指导书 较老](https://ring00.github.io/bbl-ucore/#/)
+
+### Tutorial of developing OS for RV/x86/ARM in Rust
 - [Writing an OS in Rust (x86)](https://os.phil-opp.com/)
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/)
 - [rCore-Tutorial-Book 第三版 中文](https://rcore-os.github.io/rCore-Tutorial-Book-v3/)
