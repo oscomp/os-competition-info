@@ -17,7 +17,7 @@
 
 ### Tutorial of developing OS for RV in C
 - [xv6 riscv book](https://github.com/mit-pdos/xv6-riscv-book)
-- [基于代理内核PKE的操作系统实验设计 华中](https://gitee.com/syivester/pke-doc)
+- [基于代理内核PKE rv64 的实验指导书 华中](https://gitee.com/syivester/pke-doc)
 - [ucore rv64 实验指导书 南开](https://nankai.gitbook.io/ucore-os-on-risc-v64/)
 - [ucore rv32 实验指导书 较老](https://ring00.github.io/bbl-ucore/#/)
 
