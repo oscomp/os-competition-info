@@ -1,5 +1,6 @@
 # "全国大学生操作系统比赛2021"相关信息
 ## 事件
+- 2021.03.28 [操作系统大赛技术培训](https://github.com/oscomp/seminar4-20210328/blob/main/README.md)
 - 2021.03.21 [操作系统设计赛技术培训](https://github.com/oscomp/seminar3-20210321/blob/main/README.md)
 - 2021.02.10 技术报告：[开源社区的汇聚](https://github.com/oscomp/seminar2-20210210/blob/main/README.md)
 - 2021.01.24 技术报告：[软件测试平台和内核动态跟踪工具](https://github.com/oscomp/seminar1-20210124/blob/main/README.md)
