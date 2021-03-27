@@ -14,6 +14,8 @@
 - [Rust based rcore tutorial kernel](https://github.com/wyfcyx/rCore-Tutorial/tree/multicore)
 - [C lang based uCore kernel](https://github.com/NKU-EmbeddedSystem/riscv64-ucore)
 - [RT-Thread/K210 with SMP](https://github.com/RT-Thread/rt-thread/tree/master/bsp/k210)
+- [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)
+  - [一步一步写rCore-Tutorial kernel的实验指导书](https://github.com/rcore-os/rCore-Tutorial-Book-v3) 
 
 ### Tutorial of developing OS for RV in C
 - [xv6 riscv book MIT](https://github.com/mit-pdos/xv6-riscv-book)
