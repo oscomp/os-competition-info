@@ -15,10 +15,10 @@
 
 ## 赛道
  - [OS内核实现](https://github.com/oscomp/oscomp-track1)
-   - [报名链接](https://course.educg.net/sv2/indexexp/contest/contest.jsp?doVisit=true&contestID=DYS1sK-V7mY&my=false&contestCID=0)
+   - [报名链接](https://os.educg.net)
  - [OS功能设计](https://github.com/oscomp/oscomp-track2)
    - [题目列表和分类](https://shimo.im/sheets/oon62mm4gCAGfoWY/LlBB6/)（更新中）
-   - [报名链接](https://course.educg.net/sv2/indexexp/contest/contest.jsp?doVisit=true&contestID=5sTKMOoyPwE&my=false&contestCID=0)
+   - [报名链接](https://os.educg.net)
  
 ## 相关网站
 - [OS比赛](https://os.educg.net/)
