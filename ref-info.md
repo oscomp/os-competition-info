@@ -31,7 +31,9 @@
 - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 - [Book of Drone RTOS in Rust](https://book.drone-os.com/)
   - [Drone OS: An Embedded Operating System written in Rust](https://github.com/drone-os)
-
+- [BookOS (x86)](https://www.book-os.org/)
+  - [BookOS repo](https://github.com/hzcx998/xbook2)
+   
 ### 下面是一些教学用的开源OS：
 - [C lang based xv6 on x86](https://github.com/mit-pdos/xv6-public)
 - [C lang based xv6 on risc-v](https://github.com/mit-pdos/xv6-riscv)
@@ -39,6 +41,7 @@
 - [Rust based osblog on x86](https://github.com/sgmarz/osblog)
 - [C/Rust based os kernel lab](https://github.com/chyyuu/os_kernel_lab)
 - [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)
+- [BookOS on x86](https://github.com/hzcx998/xbook2)
 
 ### 开发OS相关的信息
 - [OSDEV 讨论如何开发OS的WIKI社区](https://wiki.osdev.org/Main_Page)
