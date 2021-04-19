@@ -1,5 +1,6 @@
 # "全国大学生操作系统比赛2021"相关信息
 ## 事件
+- 2012.04.19 [OS比赛调查-20210416的结果分析](./questionnaire-20210417.md)
 - 2021.04.18 [操作系统大赛技术报告会](https://github.com/oscomp/seminar7-20210418/blob/main/README.md)
 - 2021.04.11 [操作系统大赛技术培训](https://github.com/oscomp/seminar6-20210411/blob/main/README.md)
 - 2021.04.04 [操作系统大赛技术培训](https://github.com/oscomp/seminar5-20210404/blob/main/README.md)
