@@ -6,6 +6,7 @@
 - [RISC-V 硬件中文手册](http://crva.ict.ac.cn/documents/RISC-V-Reader-Chinese-v2p1.pdf)
 - [K210 开发板相关问题](https://rcore-os.github.io/rCore-Tutorial-Book-v3/chapter0/6hardware.html#k210)（吴一凡维护）
   - [K210 入门相关资料](https://github.com/wyfcyx/osnotes/blob/master/book/K210相关资料.md)（吴一凡维护）
+- [与RISCV相关的在线课程](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code#step-1-%E8%87%AA%E5%AD%A6risc-v%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%A7%E7%BA%A67%E5%A4%A9)
 
 这里列出了一些可以在基于[K210 CPU](https://github.com/kendryte/kendryte-doc-datasheet)的[Sipeed MAIX Dock开发板](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21410578015.7.5a6752b1xJE3v2&id=591616120470)或QEMU(rv64)上运行的开源OS：
 - [nommu linux 0.11](https://github.com/lizhirui/K210-Linux0.11)
@@ -33,7 +34,8 @@
   - [Drone OS: An Embedded Operating System written in Rust](https://github.com/drone-os)
 - [BookOS (x86)](https://www.book-os.org/)
   - [BookOS repo](https://github.com/hzcx998/xbook2)
-   
+- [用RUST进行系统编程的自学资源](https://github.com/rcore-os/rCore/wiki/study-resource-of-system-programming-in-RUST)
+
 ### 下面是一些教学用的开源OS：
 - [C lang based xv6 on x86](https://github.com/mit-pdos/xv6-public)
 - [C lang based xv6 on risc-v](https://github.com/mit-pdos/xv6-riscv)
