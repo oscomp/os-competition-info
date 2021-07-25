@@ -1,5 +1,9 @@
 # "全国大学生操作系统比赛2021"相关信息
 ## 事件
+
+- 2021.07.25 2021操作系统大赛决赛阶段[第一次技术报告和交流](https://github.com/oscomp/seminar14-20210725/blob/main/README.md)
+
+### 初赛
 - 2021.05.23 2021操作系统大赛初赛阶段[第六次技术培训](https://github.com/oscomp/seminar12-20210523/blob/main/README.md)
 - 2021.05.16 2021操作系统大赛初赛阶段[第五次技术培训](https://github.com/oscomp/seminar11-20210516/blob/main/README.md)
 - 2021.05.09 2021操作系统大赛初赛阶段[第四次技术培训](https://github.com/oscomp/seminar10-20210509/blob/main/README.md)
