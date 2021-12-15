@@ -1,5 +1,6 @@
 # "全国大学生操作系统比赛2021"相关信息
 ## 事件
+- 2021.08.23 2021操作系统大赛决赛评审圆满结束，公布获奖名单，[所有参赛项目开源](https://os.educg.net/)。一等奖项目也同步开源公布在[2021oscomp-best-kernel-design-impl](https://github.com/oscomp/2021oscomp-best-kernel-design-impl)。
 - 2021.08.08 2021操作系统大赛决赛阶段[第三次技术报告和交流](https://github.com/oscomp/seminar16-20210808/blob/main/README.md)
 - 2021.08.01 2021操作系统大赛决赛阶段[第二次技术报告和交流](https://github.com/oscomp/seminar15-20210801/blob/main/README.md)
 - 2021.07.25 2021操作系统大赛决赛阶段[第一次技术报告和交流](https://github.com/oscomp/seminar14-20210725/blob/main/README.md)
