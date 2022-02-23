@@ -1,3 +1,6 @@
+# "全国大学生操作系统比赛2022"相关信息
+## 2022.01.19  2022年度全国大学生操作系统比赛正式发布[2022年操作系统大赛章程](https://pan.educg.net/api/v3/file/get/13120/OS-%E7%AB%A0%E7%A8%8B-20220117-1-%E6%9C%80%E7%BB%88%E7%A1%AE%E8%AE%A4%E7%89%88_20220119140621.pdf?sign=l7c4bNn0m_4ZJSq1gKWaisYUomIRMxLqgY7FSHIucw8%3D%3A0)和[2022年操作系统大赛技术方案](https://pan.educg.net/api/v3/file/get/13118/2022%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%A7%E8%B5%9B%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88--%E7%A1%AE%E8%AE%A4%E7%89%88-1.pdf?sign=aoRqDw44k2dkQTb9PIs6Mmf_2EL6HVy6edYYvXdlo7Y%3D%3A0)
+
 # "全国大学生操作系统比赛2021"相关信息
 ## 事件
 - 2021.08.23 2021操作系统大赛决赛评审圆满结束，公布获奖名单，[所有参赛项目开源](https://os.educg.net/)，一等奖项目也同步开源公布在[2021oscomp-best-kernel-design-impl](https://github.com/oscomp/2021oscomp-best-kernel-design-impl)
@@ -22,9 +25,9 @@
 - 2020.12.26 [关于2021全国大学生操作系统比赛的研讨会](https://github.com/oscomp/seminar0-20201226)
 - 2020.12.23 [操作系统比赛官网](https://os.educg.net/)建立
 
-## [比赛章程](https://shimo.im/docs/N2A1M8vV47cJP5AD/)
+## [2021比赛章程](https://shimo.im/docs/N2A1M8vV47cJP5AD/)
 
-## [比赛技术方案](https://shimo.im/docs/Wr3DVevExDc8wDkJ)
+## [2021比赛技术方案](https://shimo.im/docs/Wr3DVevExDc8wDkJ)
 
 ## 赛道
  - [OS内核实现](https://github.com/oscomp/oscomp-track1)
