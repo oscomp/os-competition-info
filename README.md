@@ -1,7 +1,7 @@
 # "全国大学生操作系统比赛2022"相关信息
 ## 事件
 - 2022.02.28  2022年度全国大学生操作系统比赛发布比赛题目。
-- 2022.01.20  准备2022年度全国大学生操作系统比赛的参赛题目。
+- 2022.01.20  准备2022年度全国大学生操作系统比赛的参赛题目。主要是更新改进已有2021年OS题目和提出新的题目
 - 2022.01.19  2022年度全国大学生操作系统比赛正式发布[2022年操作系统大赛章程](https://pan.educg.net/api/v3/file/get/13120/OS-%E7%AB%A0%E7%A8%8B-20220117-1-%E6%9C%80%E7%BB%88%E7%A1%AE%E8%AE%A4%E7%89%88_20220119140621.pdf?sign=l7c4bNn0m_4ZJSq1gKWaisYUomIRMxLqgY7FSHIucw8%3D%3A0)和[2022年操作系统大赛技术方案](https://pan.educg.net/api/v3/file/get/13118/2022%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%A7%E8%B5%9B%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88--%E7%A1%AE%E8%AE%A4%E7%89%88-1.pdf?sign=aoRqDw44k2dkQTb9PIs6Mmf_2EL6HVy6edYYvXdlo7Y%3D%3A0)，并开通[比赛报名通道](https://os.educg.net/)
 
 # "全国大学生操作系统比赛2021"相关信息
