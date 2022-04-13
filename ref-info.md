@@ -7,6 +7,10 @@
 - [K210 开发板相关问题](https://rcore-os.github.io/rCore-Tutorial-Book-v3/chapter0/6hardware.html#k210)（吴一凡维护）
   - [K210 入门相关资料](https://github.com/wyfcyx/osnotes/blob/master/book/K210相关资料.md)（吴一凡维护）
 - [信息收集：与RISCV相关的在线课程](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code#step-1-%E8%87%AA%E5%AD%A6risc-v%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%A7%E7%BA%A67%E5%A4%A9)
+- [SDK in github](https://github.com/kendryte)
+- [Kentryte Developer](https://canaan-creative.com/developer)
+- [Bilibil演示视频](https://search.bilibili.com/all?keyword=K210)
+- [Youtube演示视频](https://www.youtube.com/results?search_query=K210)
 
 这里列出了一些可以在基于[K210 CPU](https://github.com/kendryte/kendryte-doc-datasheet)的[Sipeed MAIX Dock开发板](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21410578015.7.5a6752b1xJE3v2&id=591616120470)或QEMU(rv64)上运行的开源OS：
 - [nommu linux 0.11](https://github.com/lizhirui/K210-Linux0.11)
