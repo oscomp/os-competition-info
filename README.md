@@ -28,9 +28,16 @@
 - 2020.12.26 [关于2021全国大学生操作系统比赛的研讨会](https://github.com/oscomp/seminar0-20201226)
 - 2020.12.23 [操作系统比赛官网](https://os.educg.net/)建立
 
-## [2021比赛章程](https://shimo.im/docs/N2A1M8vV47cJP5AD/)
+## 2022
 
-## [2021比赛技术方案](https://shimo.im/docs/Wr3DVevExDc8wDkJ)
+### [2022比赛章程](https://gitlab.eduxiji.net/csc-os/os2022/-/blob/master/OS-%E7%AB%A0%E7%A8%8B-%E6%9C%80%E7%BB%88%E7%A1%AE%E8%AE%A4%E7%89%88.pdf)
+
+### [2022比赛技术方案](https://gitlab.eduxiji.net/csc-os/os2022/-/blob/master/2022%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%A4%A7%E8%B5%9B%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88--%E7%A1%AE%E8%AE%A4%E7%89%88-1.pdf)
+
+## 2021
+### [2021比赛章程](https://pan.educg.net/api/v3/file/get/1301/2021%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%A4%A7%E8%B5%9B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E8%B5%9B-%E7%AB%A0%E7%A8%8B-20200127.pdf?sign=8GlzF7I6_z5zTaNcgqjPKMsn3CBgEvtHOpa4IqwAWpc%3D%3A0)
+
+### [2021比赛技术方案](https://pan.educg.net/api/v3/file/get/1300/2021%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E5%9F%B9%E5%85%BB%E5%A4%A7%E8%B5%9B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E8%B5%9B-%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88-20210127.pdf?sign=w3ADcMdXiIbVrY-5GpYzlKM67ppDzLbEHSMccar4uZY%3D%3A0)
 
 ## 赛道
  - [OS内核实现](https://github.com/oscomp/oscomp-track1)
