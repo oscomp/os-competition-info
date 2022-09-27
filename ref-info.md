@@ -28,7 +28,7 @@
 - [ucore rv64 实验指导书 南开](https://nankai.gitbook.io/ucore-os-on-risc-v64/)
 - [计算机系统基础实验指导(包含x86/arm/rv) 南大](https://nju-projectn.github.io/ics-pa-gitbook/ics2020/)
 - [ucore rv32 实验指导书 较老](https://ring00.github.io/bbl-ucore/#/)
-- [肖政杭同学的uCore x86 实验笔记](https://kiprey.github.io/2020/08/uCore-1/)
+- [肖政杭同学完成 uCore x86 实验的详细笔记](https://kiprey.github.io/2020/08/uCore-1/)
  
 ### Tutorial of developing OS for RV/x86/ARM in Rust
 - [Writing an OS in Rust (x86)](https://os.phil-opp.com/)
