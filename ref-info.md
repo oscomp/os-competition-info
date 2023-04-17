@@ -55,7 +55,7 @@
 
 ### 固件（Firmware）：Bootloader/BIOS/UEFI/OpenSBI等相关
 - 符合OpenSBI接口的开源固件
-  - [Rust based SBI](https://github.com/luojia65/rustsbi)
+  - [Rust based SBI](https://github.com/rustsbi/rustsbi)
 
 
 ### RISC-V 系统功能级模拟器（支持运行OS kernel）
