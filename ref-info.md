@@ -38,6 +38,28 @@
 - [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)
   - [一步一步写rCore-Tutorial v3 OS Kernel的实验指导书](https://github.com/rcore-os/rCore-Tutorial-Book-v3) 
 
+### 固件（Firmware）：Bootloader/BIOS/UEFI/OpenSBI等相关
+- 符合OpenSBI接口的开源固件
+  - [Rust based SBI](https://github.com/luojia65/rustsbi)
+
+
+### RISC-V 系统功能级模拟器（支持运行OS kernel）
+- [qemu](https://www.qemu.org/)
+- [Spike RISC-V ISA Simulator](https://github.com/riscv/riscv-isa-sim)
+- [rvemu](https://github.com/d0iasm/rvemu): simple, on web
+  - [Eng Book: Writing a RISC-V Emulator in Rust](https://book.rvemu.app/)
+  - [Made a RISC-V Emulator Running Xv6 in Eng](https://d0iasm.github.io/blog/risc-v/2020/04/03/xv6-on-my-riscv-emulator.html)
+- [riscv-rust](https://github.com/takahirox/riscv-rust): on web, with debug
+- [TinyEMU](https://bellard.org/tinyemu/): simple
+  - [MARSS-RISCV: Cycle-level Micro-Architectural System Simulator for RISC-V on top of TinyEMU](https://github.com/bucaps/marss-riscv)
+- [rv8](https://github.com/rv8-io/rv8): fast
+- [terminus](https://github.com/shady831213/terminus)：multicore,virtio-net/disk/mouse/console...
+- [Rips](https://github.com/mortbopet/Ripes) ： with nice gui interface...
+- [MARSS-RISCV (Micro-ARchitectural System Simulator - RISCV)](https://github.com/bucaps/marss-riscv)
+  - MARSS-RISCV is an open-source, cycle-level single-core full-system (Linux) micro-architectural simulator for the RISC-V ISA 
+
+### 其他RISC-V模拟器
+- [Web界面时钟周期级的RISC-V CPU](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php)
 
 ## LoongArch相关参考信息
 
@@ -105,29 +127,5 @@
 
 ### 开发OS相关的信息
 - [OSDEV 讨论如何开发OS的WIKI社区](https://wiki.osdev.org/Main_Page)
-
-### 固件（Firmware）：Bootloader/BIOS/UEFI/OpenSBI等相关
-- 符合OpenSBI接口的开源固件
-  - [Rust based SBI](https://github.com/luojia65/rustsbi)
-
-
-### RISC-V 系统功能级模拟器（支持运行OS kernel）
-- [qemu](https://www.qemu.org/)
-- [Spike RISC-V ISA Simulator](https://github.com/riscv/riscv-isa-sim)
-- [rvemu](https://github.com/d0iasm/rvemu): simple, on web
-  - [Eng Book: Writing a RISC-V Emulator in Rust](https://book.rvemu.app/)
-  - [Made a RISC-V Emulator Running Xv6 in Eng](https://d0iasm.github.io/blog/risc-v/2020/04/03/xv6-on-my-riscv-emulator.html)
-- [riscv-rust](https://github.com/takahirox/riscv-rust): on web, with debug
-- [TinyEMU](https://bellard.org/tinyemu/): simple
-  - [MARSS-RISCV: Cycle-level Micro-Architectural System Simulator for RISC-V on top of TinyEMU](https://github.com/bucaps/marss-riscv)
-- [rv8](https://github.com/rv8-io/rv8): fast
-- [terminus](https://github.com/shady831213/terminus)：multicore,virtio-net/disk/mouse/console...
-- [Rips](https://github.com/mortbopet/Ripes) ： with nice gui interface...
-- [MARSS-RISCV (Micro-ARchitectural System Simulator - RISCV)](https://github.com/bucaps/marss-riscv)
-  - MARSS-RISCV is an open-source, cycle-level single-core full-system (Linux) micro-architectural simulator for the RISC-V ISA 
-
-### 其他RISC-V模拟器
-- [Web界面时钟周期级的RISC-V CPU](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php)
-
 
 ### [2024年以前的相关信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info-before-2024.md)
