@@ -2,8 +2,7 @@
 ## 事件
 - 2024.02.01：2024年全国大学生操作系统比赛启动，发布[本届大赛流程安排](https://mp.weixin.qq.com/s/e1HLV3K2afg1x9RWdeMRoQ)、[章程](https://mp.weixin.qq.com/s/58_Ci92WU0luJpOxfEb-yQ)和[技术方案](https://mp.weixin.qq.com/s/iSGcboaJINTVQ3Xnbj7eqA)
 - 2024.02.05：2024年度全国大学生操作系统比赛启动报名。
-  
-## [与2024OS比赛内核实现赛道相关的一些OS实例/教程的参考信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
+- [与2024OS比赛内核实现赛道相关的一些OS实例/教程的参考信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
 
 # "全国大学生操作系统比赛2023"相关信息
 ## 事件
