@@ -1,3 +1,7 @@
+# "全国大学生操作系统比赛2024"相关信息
+## 事件
+- 2024.02.01：2024年全国大学生操作系统比赛启动，发布[本届大赛流程安排](https://mp.weixin.qq.com/s/e1HLV3K2afg1x9RWdeMRoQ)、[章程](https://mp.weixin.qq.com/s/58_Ci92WU0luJpOxfEb-yQ)和[技术方案](https://mp.weixin.qq.com/s/iSGcboaJINTVQ3Xnbj7eqA)
+
 # "全国大学生操作系统比赛2023"相关信息
 ## 事件
 - 2023.04.01：2023操作系统大赛初赛阶段[第二次技术培训(在技术报告栏)](https://os.educg.net/#/index)
