@@ -22,6 +22,11 @@
 - [开源PDF文档:中文版](https://wiki.rvspace.org/zh/project/Document_Publish_Status)
 - [Sipeed MAIX Dock开发板硬件说明文档](https://cn.maixpy.sipeed.com/zh/develop_kit_board/maix_dock.html)
 
+### 采用赛昉星光二代开发板（RV64）的部分2023年参赛获奖作品
+- [一等奖：北京理工大学-Alien](https://gitlab.eduxiji.net/202310007101563/Alien)
+- [二等奖：华中科技大学-AVX](https://gitlab.eduxiji.net/202310487101114/oskernel2023-avx)
+- [二等奖：哈尔滨工业大学（深圳）-MankorOS](https://gitlab.eduxiji.net/MankorOS/OSKernel2023-MankorOS)
+- [三等奖：武汉大学-AA5555AA](https://gitlab.eduxiji.net/202310486101581/luoos)
 
 ### 可以在基于QEMU(RV64)上运行的开源OS：
 - [nommu linux 0.11](https://github.com/lizhirui/K210-Linux0.11)
