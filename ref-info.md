@@ -2,7 +2,7 @@
 ## RISC-V相关参考信息
 ### RISC-V 相关文档
 
-- [RISC-V 硬件中文手册](http://crva.ict.ac.cn/documents/RISC-V-Reader-Chinese-v2p1.pdf)
+- [RISC-V 硬件中文手册](https://github.com/oscomp/books/blob/main/RISC-V-Reader-Chinese-v2p12017.pdf)
 
 ### 赛昉星光二代开发板（RV64）信息
 - [社区 Rvspace](https://rvspace.org/)
