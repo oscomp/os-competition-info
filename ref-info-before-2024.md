@@ -1,29 +1,18 @@
-# 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
+## 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
 
-### RISC-V 相关文档
-
-- [RISC-V 硬件中文手册](http://crva.ict.ac.cn/documents/RISC-V-Reader-Chinese-v2p1.pdf)
-
-### 赛昉星光二代开发板（RV64）信息
-- [社区 Rvspace](https://rvspace.org/)
-- [VisionFive 2  SBC](https://rvspace.org/zh/homepage/product_center_sbc)
-- [SDK](https://github.com/starfive-tech/VisionFive2)
-- [Quick Start Guide](https://doc-en.rvspace.org/VisionFive2/PDF/VisionFive2_QSG.pdf)
-- [SDK Quick Start Guide](https://doc-en.rvspace.org/VisionFive2/PDF/VisionFive2_SDK_QSG.pdf)
-- [Software Technical Reference Manual](https://doc-en.rvspace.org/VisionFive2/PDF/VisionFive2_SW_TRM.pdf)
-- [Debian OS  User Guide](https://wiki.rvspace.org/en/project/VisionFive2_Debian_User_Guide)
-- [Debian OS  Release](https://debian.starfivetech.com/)
-- [40-Pin GPIO Header User  Guide](https://doc-en.rvspace.org/VisionFive2/PDF/VisionFive2_40-Pin_GPIO_Header_UG.pdf)
-- [Datasheet](https://doc-en.rvspace.org/VisionFive2/PDF/VisionFive2_Datasheet.pdf)
-- [Accessories](https://rvspace.org/zh/application/Accessories)
-- [FAQ](https://doc-en.rvspace.org/VisionFive2/PDF/VisionFive2_FAQ.pdf)
-- [RVspace 论坛资料发布，技术答疑](https://forum.rvspace.org/)
-- [开源PDF文档:英文版](https://wiki.rvspace.org/en/project/Document_Publish_Status)
-- [开源PDF文档:中文版](https://wiki.rvspace.org/zh/project/Document_Publish_Status)
+### RISC-V 硬件文档
+- [Kendryte（基于K210芯片）硬件技术规格说明文档](https://github.com/kendryte/kendryte-doc-datasheet/blob/master/zh-Hans/SUMMARY.md)
 - [Sipeed MAIX Dock开发板硬件说明文档](https://cn.maixpy.sipeed.com/zh/develop_kit_board/maix_dock.html)
+- [RISC-V 硬件中文手册](http://crva.ict.ac.cn/documents/RISC-V-Reader-Chinese-v2p1.pdf)
+- [K210 开发板相关问题](https://rcore-os.github.io/rCore-Tutorial-Book-v3/chapter0/6hardware.html#k210)（吴一凡维护）
+  - [K210 入门相关资料](https://github.com/wyfcyx/osnotes/blob/master/book/K210相关资料.md)（吴一凡维护）
+- [信息收集：与RISCV相关的在线课程](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code#step-1-%E8%87%AA%E5%AD%A6risc-v%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%A4%A7%E7%BA%A67%E5%A4%A9)
+- [SDK in github](https://github.com/kendryte)
+- [Kentryte Developer](https://canaan-creative.com/developer)
+- [Bilibil演示视频](https://search.bilibili.com/all?keyword=K210)
+- [Youtube演示视频](https://www.youtube.com/results?search_query=K210)
 
-
-### 可以在基于QEMU(RV64)上运行的开源OS：
+这里列出了一些可以在基于[K210 CPU](https://github.com/kendryte/kendryte-doc-datasheet)的[Sipeed MAIX Dock开发板](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21410578015.7.5a6752b1xJE3v2&id=591616120470)或QEMU(rv64)上运行的开源OS：
 - [nommu linux 0.11](https://github.com/lizhirui/K210-Linux0.11)
 - [C lang based xv6 kernel](https://github.com/SKTT1Ryze/xv6-k210)
 - [Rust lang based xv6 kernel(uncompleted)](https://github.com/Jaic1/xv6-riscv-rust)
@@ -86,6 +75,3 @@
 
 ### 其他RISC-V模拟器
 - [Web界面时钟周期级的RISC-V CPU](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php)
-
-
-## [2024年以前的相关信息](https://github.com/oscomp/os-competition-info/blob/main/ref-info-before-2024.md)
