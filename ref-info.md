@@ -38,6 +38,27 @@
 - [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)
   - [一步一步写rCore-Tutorial v3 OS Kernel的实验指导书](https://github.com/rcore-os/rCore-Tutorial-Book-v3) 
 
+### 与OS无关的kernel components
+这是部分与OS无关的kernel components，有一些不一定特别完善，供参考、引用或改进
+
+- [基于C的ext4 crate](https://github.com/rcore-os/lwext4_rust)
+- [基于Rust的ext4 crate](https://github.com/yuoo655/ext4_rs)
+- [Rust-based tcpip stack: smoltcp](https://github.com/rcore-os/smoltcp)
+- [C-based tcpip stack:lwip](https://github.com/Centaurus99/arceos-lwip)
+- [virtio drivers](https://github.com/rcore-os/virtio-drivers)
+- [e1000 NIC driver](https://github.com/rcore-os/e1000-driver)
+- [Cadence Macb ethernet driver on Sifive fu740 board](https://github.com/rcore-os/cadence-macb-driver)
+- [RISC-V星光二代开发板的网卡驱动](https://github.com/yuoo655/visionfive2_net_driver)
+- [RISC-V星光二代开发板的SD卡驱动](https://github.com/os-module/visionfive2-sd) 
+- [nvme driver](https://github.com/rcore-os/nvme_driver)
+- [isomorphic_drivers](https://github.com/rcore-os/isomorphic_drivers)
+- [os scheduler](https://github.com/131131yhx/arceos)
+- [os memory malloc subsystem](https://github.com/rcore-os/mem_malloc_subsystem)
+
+### 开发OS过程中形成的kernel components
+- [开发unikernel Arceos形成的crates](https://github.com/Arceos-crates/.github/blob/main/README.md)
+- [开发宏内核 ByteOS形成的crates](https://github.com/Byte-OS/.github/blob/main/README.md)
+ 
 ### 固件（Firmware）：Bootloader/BIOS/UEFI/OpenSBI等相关
 - 符合OpenSBI接口的开源固件
   - [Rust based SBI](https://github.com/luojia65/rustsbi)
