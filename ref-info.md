@@ -26,6 +26,7 @@
 - [一等奖：北京理工大学-Alien](https://gitlab.eduxiji.net/202310007101563/Alien)
 - [二等奖：华中科技大学-AVX](https://gitlab.eduxiji.net/202310487101114/oskernel2023-avx)
 - [二等奖：哈尔滨工业大学（深圳）-MankorOS](https://gitlab.eduxiji.net/MankorOS/OSKernel2023-MankorOS)
+- [二等奖：西北工大-npucore+](https://gitlab.eduxiji.net/202310699101073/oskernel2023-npucore-plus)
 - [三等奖：武汉大学-AA5555AA](https://gitlab.eduxiji.net/202310486101581/luoos)
 
 ### 可以在基于QEMU(RV64)上运行的开源OS：
@@ -41,6 +42,7 @@
 ### 与OS无关的kernel components
 这是部分与OS无关的kernel components，有一些不一定特别完善，供参考、引用或改进
 
+- [与OS无关且支持x64/aarch64/riscv64/loongarch64，以及星光二代开发板和龙芯2k1000的处理器抽象层Crates: PolyHAL](https://github.com/Byte-OS/polyhal)
 - [基于C的ext4 crate](https://github.com/rcore-os/lwext4_rust)
 - [基于Rust的ext4 crate](https://github.com/yuoo655/ext4_rs)
 - [Rust-based tcpip stack: smoltcp](https://github.com/rcore-os/smoltcp)
@@ -116,6 +118,9 @@
 - [Yocto](https://www.yoctoproject.org/). Yocto是用于定制嵌入式Linux系统的主流工具之一，它已经支持LoongArch.
 - [seL4](https://github.com/tyyteam/la-seL4). 2022年全国大学生操作系统大赛-功能挑战赛一等奖。
 - [NuttX](https://github.com/LA-NuttX). NuttX是完全兼容Posix和ANSI标准的嵌入式实时系统，有着轻量级、定制化的特点，已被广泛应用在成熟的商业系统或软件中，如小米Vela系统、三星Tizen RT系统、px4飞行控制软件。
+
+###  LoongArch上可以运行的内核模块
+- [与OS无关且支持x64/aarch64/riscv64/loongarch64，以及星光二代开发板和龙芯2k1000的处理器抽象层Crates: PolyHAL](https://github.com/Byte-OS/polyhal)
 
 ## 其它参考信息
 ### Tutorial of developing OS for RV/x86 in C
