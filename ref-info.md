@@ -1,4 +1,12 @@
 # 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
+
+## 文件系统相关信息
+### ext4文件系统参考实现
+- [C-based ext4库](https://github.com/gkostka/lwext4)
+- [Rust-based ext4 Crate](https://github.com/rcore-os/lwext4_rust/tree/main)
+
+**注：这两个库与具体OS无关，可集成到各种OS中。**
+
 ## RISC-V相关参考信息
 ### RISC-V 相关文档
 
