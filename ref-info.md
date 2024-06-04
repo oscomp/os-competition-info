@@ -2,8 +2,14 @@
 
 ## 文件系统相关信息
 ### ext4文件系统参考实现
-- [C-based ext4库](https://github.com/gkostka/lwext4)
-- [Rust-based ext4 Crate](https://github.com/rcore-os/lwext4_rust/tree/main)
+- [C-based lwext4库](https://github.com/gkostka/lwext4)
+  - [这个C库的起源来自 helenOS](http://helenos.org/)
+  - [修改并使用此C库的RT-Thread OS](https://packages.rt-thread.org/en/detail.html?package=lwext4)
+- [封装了C-based lwext4的Rust-based ext4 Crate](https://github.com/rcore-os/lwext4_rust/tree/main)
+  - [使用此库的StarryOS](https://github.com/Starry-OS/Starry)
+  - [使用此库的ByteOS](https://github.com/Byte-OS/ByteOS)
+- [Rust-based ext4 Crate](https://github.com/yuoo655/ext4_rs)
+  - [使用此库的StarryOS](https://github.com/Starry-OS/Starry)
 
 **注：这两个库与具体OS无关，可集成到各种OS中。**
 
