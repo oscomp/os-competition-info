@@ -11,7 +11,7 @@
 - [Rust-based ext4 Crate](https://github.com/yuoo655/ext4_rs)
   - [使用此库的StarryOS](https://github.com/Starry-OS/Starry)
 
-**注：2024决赛阶段的比赛，文件系统格式从FAT32改为了Ext4， 上面提供的C和Rust的Ext4库与具体OS无关，经过适配后，可集成到各种OS中。**
+**注：2024决赛阶段的内核实现赛道比赛，测试用例所在文件系统格式从FAT32改为了Ext4， 上面提供的C和Rust的Ext4库与具体OS无关，经过适配后，可集成到各种OS中。**
 
 ## RISC-V相关参考信息
 ### RISC-V 相关文档
