@@ -1,6 +1,16 @@
 # 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
 
-## 文件系统相关信息
+## 硬件抽象层相关组件
+- [rtthread内核为参考例子的C-based HAL](https://github.com/RT-Thread/rt-thread/tree/master)
+  - [RISC-V64/32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/risc-v)
+  - [LoongArch64](https://freeflyingsheep.github.io/posts/rt-thread/loongarch64/)
+  - [LoongArch32](https://freeflyingsheep.github.io/posts/rt-thread/loongarch32/)
+  - [ARM aarch64](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/aarch64)
+  - [arm32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/arm)
+- [Rust-based HAL: RISC-V64, LoongArch64, x86-64, ARM aarch64](https://github.com/oscomp/arceos/tree/main/modules/axhal)
+  - [arceos unikernel内核的参考例子](https://github.com/oscomp/arceos)
+  - [starry-next宏内核参考例子](https://github.com/oscomp/starry-next)  
+## 文件系统相关组件
 ### ext4文件系统参考实现
 - [C-based lwext4库](https://github.com/gkostka/lwext4)
   - [这个C库的起源来自 helenOS](http://helenos.org/)
