@@ -1,13 +1,13 @@
 # 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
 
 ## 硬件抽象层相关组件
-- [rtthread内核为参考例子的C-based HAL](https://github.com/RT-Thread/rt-thread/tree/master)
+- [rtthread内核为参考例子的C-based 多种HAL](https://github.com/RT-Thread/rt-thread/tree/master)
   - [RISC-V64/32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/risc-v)
   - [LoongArch64](https://freeflyingsheep.github.io/posts/rt-thread/loongarch64/)
   - [LoongArch32](https://freeflyingsheep.github.io/posts/rt-thread/loongarch32/)
   - [ARM aarch64](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/aarch64)
   - [arm32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/arm)
-- [Rust-based HAL: RISC-V64, LoongArch64, x86-64, ARM aarch64](https://github.com/oscomp/arceos/tree/main/modules/axhal)
+- [Rust-based HAL: 支持RISC-V64, LoongArch64, x86-64, ARM aarch64](https://github.com/oscomp/arceos/tree/main/modules/axhal)
   - [arceos unikernel内核的参考例子](https://github.com/oscomp/arceos)
   - [starry-next宏内核参考例子](https://github.com/oscomp/starry-next)  
 ## 文件系统相关组件
