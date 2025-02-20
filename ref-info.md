@@ -1,6 +1,6 @@
 # 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
-
-## 硬件抽象层相关组件
+## 与操作系统相对无关的内核核心组件
+### 硬件抽象层相关组件
 - [rtthread内核为参考例子的C-based 多种HAL](https://github.com/RT-Thread/rt-thread/tree/master)
   - [RISC-V64/32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/risc-v)
   - [LoongArch64](https://freeflyingsheep.github.io/posts/rt-thread/loongarch64/)
@@ -10,8 +10,8 @@
 - [Rust-based HAL: 支持RISC-V64, LoongArch64, x86-64, ARM aarch64](https://github.com/oscomp/arceos/tree/main/modules/axhal)
   - [arceos unikernel内核的参考例子](https://github.com/oscomp/arceos)
   - [starry-next宏内核参考例子](https://github.com/oscomp/starry-next)  
-## 文件系统相关组件
-### ext4文件系统参考实现
+### 文件系统相关组件
+#### ext4文件系统参考实现
 - [C-based lwext4库](https://github.com/gkostka/lwext4)
   - [这个C库的起源来自 helenOS](http://helenos.org/)
   - [修改并使用此C库的RT-Thread OS](https://packages.rt-thread.org/en/detail.html?package=lwext4)
@@ -20,6 +20,17 @@
   - [使用此库的ByteOS](https://github.com/Byte-OS/ByteOS)
 - [Rust-based ext4 Crate](https://github.com/yuoo655/ext4_rs)
   - [使用此库的StarryOS](https://github.com/Starry-OS/Starry)
+
+### TCP/IP协议栈相关组件
+- C based
+  - [lwip](https://github.com/lwip-tcpip/lwip)
+  - [CycloneTCP](https://github.com/Oryx-Embedded/CycloneTCP)
+- Rust based
+  - [Rust-based tcpip stack: smoltcp](https://github.com/rcore-os/smoltcp)
+  - [Rust封装C-based tcpip stack:lwip](https://github.com/Centaurus99/arceos-lwip)
+
+### 可用于QEMU的设备驱动相关组件
+- [virtio drivers](https://github.com/rcore-os/virtio-drivers): Block, NIC, GPU, Input, Console ... Drivers
 
 **注：2024决赛阶段的内核实现赛道比赛，测试用例所在文件系统格式从FAT32改为了Ext4， 上面提供的C和Rust的Ext4库与具体OS无关，经过适配后，可集成到各种OS中。**
 
