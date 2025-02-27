@@ -1,4 +1,7 @@
 # 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
+## 内核实现赛道涉及的QEMU模拟器、编译器工具信息
+- [2025年OS比赛内核实现赛道题目仓库中的赛题评测指南](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025/?tab=readme-ov-file#%E8%B5%9B%E9%A2%98%E8%AF%84%E6%B5%8B%E6%8C%87%E5%8D%97)给出了详细信息
+  - QEMU-9.2.1
 ## 与操作系统相对无关的内核核心组件
 ### 硬件抽象层相关组件
 - [rtthread内核为参考例子的C-based 多种HAL](https://github.com/RT-Thread/rt-thread/tree/master)
