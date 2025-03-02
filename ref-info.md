@@ -6,7 +6,7 @@
   - [用于编译运行测试的docker环境配置文件](https://gitlab.educg.net/wangmingjian/os-contest-2024-image/)
 ## 与操作系统相对无关的内核核心组件
 ### 硬件抽象层相关组件
-- [rtthread内核为参考例子的C-based 多种HAL](https://github.com/RT-Thread/rt-thread/tree/master)
+- [C-based 多种HAL](https://github.com/RT-Thread/rt-thread/tree/master)：rtthread内核为参考例子
   - [RISC-V64/32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/risc-v)
   - [LoongArch64](https://freeflyingsheep.github.io/posts/rt-thread/loongarch64/)
   - [LoongArch32](https://freeflyingsheep.github.io/posts/rt-thread/loongarch32/)
