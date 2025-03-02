@@ -2,7 +2,7 @@
 
 - **注1：在内核实现赛道，并不要求参赛队要从零开发os kernel，可以基于如下的内核参考例子（即作为base OS），进一步实现和改进可通过测试用例的内核功能。重点是大家自己做的内核上的增量工作。**
 - **注2：在参考和复制非本队的内核参考例子（即作为base OS）时，需要仔细阅读2025OS比赛技术方案中的"比赛要求"内容，确保源代码和文档的合法性和合规性。**
-
+- **注3：参赛队实现的内核要求支持RISC-V64 & LoongArch64。在初赛阶段，硬件环境仅基于QEMU硬件模拟器 for RISC-V64 & LoongArch64**
 ## 内核实现赛道涉及的测试用例、QEMU模拟器、编译器工具、开发环境的docker配置文件等信息
 - [2025年OS比赛内核实现赛道题目仓库中的赛题评测指南](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025/?tab=readme-ov-file#%E8%B5%9B%E9%A2%98%E8%AF%84%E6%B5%8B%E6%8C%87%E5%8D%97)给出了详细信息
   - [测试用例](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025):与处理器硬件无关
