@@ -84,6 +84,8 @@
 - [三等奖：武汉大学-AA5555AA](https://gitlab.eduxiji.net/202310486101581/luoos)
 
 ### 可以在基于QEMU(RV64)上运行的开源OS：
+- [asterinas kernel](https://github.com/asterinas/asterinas) Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI. Support x86_64 & RISC-V64
+- [DragonOS kernel](https://github.com/DragonOS-Community/DragonOS/tree/master/kernel/src/arch) DragonOS已经实现了约1/4的Linux接口，支持x86_64 & RISC-V64
 - [nommu linux 0.11](https://github.com/lizhirui/K210-Linux0.11)
 - [C lang based xv6 kernel](https://github.com/SKTT1Ryze/xv6-k210)
 - [Rust lang based xv6 kernel(uncompleted)](https://github.com/Jaic1/xv6-riscv-rust)
