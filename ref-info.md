@@ -12,7 +12,7 @@
   - [LoongArch32](https://freeflyingsheep.github.io/posts/rt-thread/loongarch32/)
   - [ARM aarch64](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/aarch64)
   - [arm32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/arm)
-- [Rust-based axHAL: 支持RISC-V64, LoongArch64, x86-64, ARM aarch64](https://github.com/oscomp/arceos/tree/main/modules/axhal)
+- [Rust-based axHAL](https://github.com/oscomp/arceos/tree/main/modules/axhal) : 支持RISC-V64, LoongArch64, x86-64, ARM aarch64
   - [starry-next宏内核参考例子](https://github.com/oscomp/starry-next) ：对 2025 年 OS 比赛已经初步完成了环境适配，能够运行 riscv64 和 loongarch64 的大部分 basic 测例，并可以支持在OS内核赛道比赛平台上进行评测。
   - [可在OS比赛平台上运行的改造代码仓库](https://gitlab.eduxiji.net/Azure_stars/starry-next/-/tree/pre2025test)（相比于 github 仓库进行了一些环境配置的改变）
   - [starry-next 内核使用说明](https://azure-stars.github.io/Starry-Tutorial-Book/ch01-00.html)
