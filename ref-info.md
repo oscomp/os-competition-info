@@ -1,9 +1,14 @@
 # 与比赛相关的一些硬件，OS相关的实例/教程的参考信息
+
+- **注1：在内核实现赛道，并不要求参赛队要从零开发os kernel，可以基于如下的内核参考例子（即作为base OS），进一步实现和改进可通过测试用例的内核功能。重点是大家自己做的内核上的增量工作。**
+- **注2：在参考和复制非本队的内核参考例子（即作为base OS）时，需要仔细阅读2025OS比赛技术方案中的"比赛要求"内容，确保源代码和文档的合法性和合规性。**
+
 ## 内核实现赛道涉及的测试用例、QEMU模拟器、编译器工具、开发环境的docker配置文件等信息
 - [2025年OS比赛内核实现赛道题目仓库中的赛题评测指南](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025/?tab=readme-ov-file#%E8%B5%9B%E9%A2%98%E8%AF%84%E6%B5%8B%E6%8C%87%E5%8D%97)给出了详细信息
-  - [测试用例](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025)
-  - 硬件模拟器：QEMU-9.2.1 
+  - [测试用例](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025):与处理器硬件无关
+  - 硬件模拟器：QEMU-9.2.1 for RISC-V64 & LoongArch64 
   - [用于编译运行测试的docker环境配置文件](https://gitlab.educg.net/wangmingjian/os-contest-2024-image/)
+  
 ## 与操作系统相对无关的内核核心组件
 ### 硬件抽象层相关组件
 - [C-based 多种HAL](https://github.com/RT-Thread/rt-thread/tree/master)：rtthread内核为参考例子
