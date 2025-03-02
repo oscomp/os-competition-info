@@ -69,6 +69,13 @@
 - [开源PDF文档:中文版](https://wiki.rvspace.org/zh/project/Document_Publish_Status)
 - [Sipeed MAIX Dock开发板硬件说明文档](https://cn.maixpy.sipeed.com/zh/develop_kit_board/maix_dock.html)
 
+### 采用赛昉星光二代开发板（RV64）的部分2024年参赛获奖作品
+- [一等奖：哈尔滨工业大学（深圳）-Phoenix](https://gitlab.eduxiji.net/educg-group-26010-2376550/T202418123993075-2940)
+- [一等奖：哈尔滨工业大学-MinotaurOS](https://gitlab.eduxiji.net/educg-group-26010-2376550/T202410213992712-3123)
+- [一等奖：上海交通大学-ChCore](https://gitlab.eduxiji.net/educg-group-26010-2376550/T202410248992613-106)
+- [一等奖：华中科技大学-RustTrustHuster](https://gitlab.eduxiji.net/educg-group-26010-2376550/T202410487992457-1800)
+- [一等奖：杭州电子科技大学-Pantheon](https://gitlab.eduxiji.net/educg-group-26010-2376550/T202410336992584-3678)
+
 ### 采用赛昉星光二代开发板（RV64）的部分2023年参赛获奖作品
 - [一等奖：北京理工大学-Alien](https://gitlab.eduxiji.net/202310007101563/Alien)
 - [二等奖：华中科技大学-AVX](https://gitlab.eduxiji.net/202310487101114/oskernel2023-avx)
@@ -132,6 +139,11 @@
 - [Web界面时钟周期级的RISC-V CPU](http://x.dii.unisi.it:8098/~giorgi/WebRISC-V/index.php)
 
 ## LoongArch相关参考信息
+
+### 采用2k1000（LoongArch64）的部分2024年参赛获奖作品
+- [一等奖：西北工业大学- NPUcore-IMPACT!!!](https://gitlab.eduxiji.net/educg-group-26011-2376549/T202410699992496-312)
+- [二等奖：西北工业大学- NPUcore-重生之我是菜狗](https://gitlab.eduxiji.net/educg-group-26011-2376549/T202410699992491-3136)
+- [二等奖：河南理工大学- NPUcore-重生之我是秦始皇](https://gitlab.eduxiji.net/educg-group-26011-2376549/T202410460992502-2319)
 
 ### 内核赛道选用的2K1000开发板参考资料
 
