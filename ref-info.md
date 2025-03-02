@@ -12,14 +12,14 @@
   - [LoongArch32](https://freeflyingsheep.github.io/posts/rt-thread/loongarch32/)
   - [ARM aarch64](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/aarch64)
   - [arm32](https://github.com/RT-Thread/rt-thread/tree/master/libcpu/arm)
-- [Rust-based HAL: 支持RISC-V64, LoongArch64, x86-64, ARM aarch64](https://github.com/oscomp/arceos/tree/main/modules/axhal)
-
+- [Rust-based axHAL: 支持RISC-V64, LoongArch64, x86-64, ARM aarch64](https://github.com/oscomp/arceos/tree/main/modules/axhal)
   - [starry-next宏内核参考例子](https://github.com/oscomp/starry-next) ：对 2025 年 OS 比赛已经初步完成了环境适配，能够运行 riscv64 和 loongarch64 的大部分 basic 测例，并可以支持在OS内核赛道比赛平台上进行评测。
   - [可在OS比赛平台上运行的改造代码仓库](https://gitlab.eduxiji.net/Azure_stars/starry-next/-/tree/pre2025test)（相比于 github 仓库进行了一些环境配置的改变）
   - [starry-next 内核使用说明](https://azure-stars.github.io/Starry-Tutorial-Book/ch01-00.html)
   - [如何在 OS 比赛平台上测试 Starry 的说明](https://azure-stars.github.io/Starry-Tutorial-Book/ch01-00.html)
   - [starry-next所基于的arceos unikernel参考内核](https://github.com/oscomp/arceos)
-
+- [Rust-based PolyHAL](https://github.com/Byte-OS/polyhal) 与OS无关且支持x64/aarch64/riscv64/loongarch64，以及星光二代开发板和龙芯2k1000的处理器抽象层Crates
+  - [使用此库的ByteOS](https://github.com/Byte-OS/ByteOS)
 ### 文件系统相关组件
 #### ext4文件系统参考实现
 - [C-based lwext4库](https://github.com/gkostka/lwext4)
@@ -98,7 +98,7 @@
 ### 与OS无关的kernel components
 这是部分与OS无关的kernel components，有一些不一定特别完善，供参考、引用或改进
 
-- [与OS无关且支持x64/aarch64/riscv64/loongarch64，以及星光二代开发板和龙芯2k1000的处理器抽象层Crates: PolyHAL](https://github.com/Byte-OS/polyhal)
+- [PolyHAL](https://github.com/Byte-OS/polyhal) 与OS无关且支持x64/aarch64/riscv64/loongarch64，以及星光二代开发板和龙芯2k1000的处理器抽象层Crates.
 - [基于C的ext4 crate](https://github.com/rcore-os/lwext4_rust)
 - [基于Rust的ext4 crate](https://github.com/yuoo655/ext4_rs)
 - [Rust-based tcpip stack: smoltcp](https://github.com/rcore-os/smoltcp)
