@@ -124,7 +124,6 @@
 - [os memory malloc subsystem](https://github.com/rcore-os/mem_malloc_subsystem)
 
 ### 开发OS过程中形成的kernel components
-- [开发unikernel Arceos形成的crates](https://github.com/Arceos-crates/.github/blob/main/README.md)
 - [开发宏内核 ByteOS形成的crates](https://github.com/Byte-OS/.github/blob/main/README.md)
  
 ### 固件（Firmware）：Bootloader/BIOS/UEFI/OpenSBI等相关
