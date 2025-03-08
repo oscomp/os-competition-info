@@ -49,6 +49,9 @@
 ### 可用于QEMU的设备驱动相关组件
 - [virtio drivers](https://github.com/rcore-os/virtio-drivers): Block, NIC, GPU, Input, Console ... Drivers
 
+### 各种可用于内核开发的crates
+- [Kernel crates that can be used in multiple Rust OSes](https://github.com/kern-crates)
+
 **注1：2025决赛阶段的内核实现赛道比赛，测试用例所在文件系统格式为Ext4， 上面提供的C和Rust的Ext4库与具体OS无关，经过适配后，可集成到各种OS中。**
 
 **注2：2025决赛阶段的内核实现赛道比赛，操作系统内核要求能支持RISC-V 64和 LoongArch64，在必须遵循2025OS比赛技术方案的比赛要求（请仔细阅读）下，上面的或相关的符合开源协议的源代码可参考、引用、复制。**
