@@ -37,7 +37,8 @@
   - [使用此库的ByteOS](https://github.com/Byte-OS/ByteOS)
 - [Rust-based ext4 Crate](https://github.com/yuoo655/ext4_rs)
   - [使用此库的StarryOS](https://github.com/Starry-OS/Starry)
-
+- [Another Rust-based ext4 Crate](https://github.com/PKTH-Jx/another_ext4)
+  - [使用此库的StarryOS](https://github.com/Starry-OS/Starry)
 ### TCP/IP协议栈相关组件
 - C based
   - [lwip](https://github.com/lwip-tcpip/lwip)
