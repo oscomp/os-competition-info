@@ -10,7 +10,14 @@
   - [测试用例](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025):与处理器硬件无关
   - 硬件模拟器：QEMU-9.2.1 for RISC-V64 & LoongArch64 
   - [用于编译运行测试的docker环境配置文件](https://gitlab.educg.net/wangmingjian/os-contest-2024-image/)
-  
+
+## 放在 https://github.com/oscomp/ 上的一些OS参考例子
+  - https://github.com/oscomp/ByteOS
+  - https://github.com/oscomp/DragonOS
+  - https://github.com/oscomp/asterinas
+  - https://github.com/oscomp/starry-next
+注：C-based OS会尽快提供。参赛队在遵循2025OS比赛技术方案中的"比赛要求"的前提下，可以复制/参考/选用这些OS（或其他类似的开源OS）的全部或部分功能模块作为based来参赛。
+
 ## 与操作系统相对无关的内核核心组件
 ### 硬件抽象层相关组件
 - [C-based 多种HAL](https://github.com/RT-Thread/rt-thread/tree/master)：rtthread内核为参考例子
