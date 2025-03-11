@@ -17,7 +17,7 @@
   - https://github.com/oscomp/asterinas
   - https://github.com/oscomp/starry-next
 
-注：C-based OS会尽快提供。参赛队在遵循2025OS比赛技术方案中的"比赛要求"的前提下，可以复制/参考/选用这些OS（或其他类似的开源OS）的全部或部分功能模块作为based来参赛。
+注：C-based OS（RT-Thread）参考例子会尽快提供。参赛队在遵循2025OS比赛技术方案中的"比赛要求"的前提下，可以复制/参考/选用这些OS（或其他类似的开源OS）的全部或部分功能模块作为based来参赛。
 
 ## 与操作系统相对无关的内核核心组件
 ### 硬件抽象层相关组件
