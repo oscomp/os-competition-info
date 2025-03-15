@@ -12,10 +12,14 @@
   - [用于编译运行测试的docker环境配置文件](https://gitlab.educg.net/wangmingjian/os-contest-2024-image/)
 
 ## 放在 https://github.com/oscomp/ 上的一些OS参考例子
+### C-based OS
+  - https://github.com/oscomp/RT-Thread
+### Rust-based OS
   - https://github.com/oscomp/ByteOS
   - https://github.com/oscomp/DragonOS
   - https://github.com/oscomp/asterinas
   - https://github.com/oscomp/starry-next
+
 
 注：C-based OS（RT-Thread）参考例子会尽快提供。参赛队在遵循2025OS比赛技术方案中的"比赛要求"的前提下，可以复制/参考/选用这些OS（或其他类似的开源OS）的全部或部分功能模块作为based来参赛。
 
