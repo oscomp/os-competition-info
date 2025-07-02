@@ -1,5 +1,6 @@
 # "全国大学生操作系统比赛2025"相关信息
 ## 事件
+- 2025.06.30：2025年全国大学生操作系统比赛初赛结束。[部分内核赛道开源项目](https://github.com/oscomp/os-competition-info/blob/main/20250701-kernel-comp-repos.md)，可进行交流与学习。
 - 2025.02.28：2025年全国大学生操作系统比赛启动并开启报名。
 - 2025.02.23：2025年全国大学生操作系统比赛的章程和技术方案初步完成。
 - 2025.02.22：发布[**与2025OS比赛内核实现赛道相关的一些OS实例/教程的参考信息**](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
