@@ -4,7 +4,7 @@
 
 
 ## [2021~2025比赛事件](./README-2025.md)
-## [2021-2025功能赛道特等奖一等奖信息](./os-fun-winners.md)
+## [2021-2025功能赛道特等奖一等奖信息](./os-funtion-winners.md)
 ## 赛道
  - [OS内核实现](https://github.com/oscomp/oscomp-track1)
    - [报名链接](https://os.educg.net)
