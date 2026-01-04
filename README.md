@@ -1,5 +1,7 @@
 # "全国大学生操作系统比赛2026"相关信息
 ## 事件
+- 2025.12.26: 汇总[2021-2025OS比赛内核赛道部分获奖作品信息](https://github.com/oscomp/os-competition-info/blob/main/os-kernel-winners.md)
+- 2025.12.25: 汇总[2021-2025OS比赛功能赛道部分获奖作品信息](https://github.com/oscomp/os-competition-info/blob/main/os-funtion-winners.md)
 - 2025.12.06: 2025年度全国大学生操作系统比赛总结&2026年度全国大学生操作系统比赛准备会召开
 
 
